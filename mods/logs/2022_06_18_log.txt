@@ -1,0 +1,2463 @@
+09:35:33 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "E:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+09:35:33 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+09:35:33 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+09:35:33 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+09:35:35 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:36:00 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:36:01 AM Lua: [INFO] [BLT] Setup... 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:36:01 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:36:01 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x001c8a20 
+09:36:01 AM Lua: [INFO] [BLT] Loading mod: base 
+09:36:01 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:01 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:36:01 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:36:01 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:36:01 AM Lua: [INFO] [BLT] Setup... 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:36:01 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:36:01 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:36:01 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x001c8a00 
+09:36:01 AM Lua: [INFO] [BLT] Loading mod: base 
+09:36:01 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:01 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:36:01 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:36:01 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:36:02 AM Lua: [INFO] Loading mod settings : nil 
+09:36:04 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:36:04 AM Lua: [INFO] [BLT] Setup... 
+09:36:04 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:36:04 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:36:04 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:36:04 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:36:04 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:36:04 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:36:04 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2b975fa0 
+09:36:04 AM Lua: [INFO] [BLT] Loading mod: base 
+09:36:04 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:04 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:36:04 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:36:04 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:36:31 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:51) CURL_INITD
+09:36:32 AM Lua: [06/18/22 09:36:32] Update checker report. Is success ? true Data received: 2.0.0
+
+09:36:35 AM Lua: [06/18/22 09:36:35] announce:check_and_announce()
+
+09:36:36 AM Lua: [06/18/22 09:36:36] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:36:44 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2blt
+09:36:44 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2bltdll
+09:36:45 AM Lua: [INFO] [Updates] Received update data for 'payday2blt' 
+09:36:45 AM Lua: [INFO] [Updates] Received update data for 'payday2bltdll' 
+09:36:47 AM Lua: [INFO] [Updates] Comparing hash data for payday2bltdll:
+Server: 6e30523b873aa04268e9e99e8d127a97dc3474d70d6bceb5a324e95c78b505ac
+ Local: 6e30523b873aa04268e9e99e8d127a97dc3474d70d6bceb5a324e95c78b505ac 
+09:36:48 AM Lua: [INFO] [Updates] Comparing hash data for payday2blt:
+Server: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6
+ Local: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6 
+09:37:09 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 256040 files in 95632 ms
+09:37:35 AM Lua: [06/18/22 09:37:35] announce:check_and_announce()
+
+09:37:37 AM Lua: [06/18/22 09:37:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:38:35 AM Lua: [06/18/22 09:38:35] announce:check_and_announce()
+
+09:38:36 AM Lua: [06/18/22 09:38:36] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:39:35 AM Lua: [06/18/22 09:39:35] announce:check_and_announce()
+
+09:39:37 AM Lua: [06/18/22 09:39:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:40:35 AM Lua: [06/18/22 09:40:35] announce:check_and_announce()
+
+09:40:37 AM Lua: [06/18/22 09:40:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:41:35 AM Lua: [06/18/22 09:41:35] announce:check_and_announce()
+
+09:41:37 AM Lua: [06/18/22 09:41:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:42:35 AM Lua: [06/18/22 09:42:35] announce:check_and_announce()
+
+09:42:37 AM Lua: [06/18/22 09:42:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:43:35 AM Lua: [06/18/22 09:43:35] announce:check_and_announce()
+
+09:43:37 AM Lua: [06/18/22 09:43:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:44:35 AM Lua: [06/18/22 09:44:35] announce:check_and_announce()
+
+09:44:37 AM Lua: [06/18/22 09:44:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:45:35 AM Lua: [06/18/22 09:45:35] announce:check_and_announce()
+
+09:45:37 AM Lua: [06/18/22 09:45:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:46:35 AM Lua: [06/18/22 09:46:35] announce:check_and_announce()
+
+09:46:37 AM Lua: [06/18/22 09:46:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:47:35 AM Lua: [06/18/22 09:47:35] announce:check_and_announce()
+
+09:47:37 AM Lua: [06/18/22 09:47:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:48:35 AM Lua: [06/18/22 09:48:35] announce:check_and_announce()
+
+09:48:37 AM Lua: [06/18/22 09:48:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:49:35 AM Lua: [06/18/22 09:49:35] announce:check_and_announce()
+
+09:49:37 AM Lua: [06/18/22 09:49:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:50:35 AM Lua: [INFO] [1] SYSTEM: 21 Savage is joining. 
+09:50:35 AM Lua: [06/18/22 09:50:35] announce:check_and_announce()
+
+09:50:37 AM Lua: [06/18/22 09:50:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:50:55 AM Lua: [INFO] [1] SYSTEM: 21 Savage disconnected. 
+09:51:06 AM Lua: [INFO] [1] SYSTEM: 21 Savage is joining. 
+09:51:12 AM Lua: [INFO] [1] SYSTEM: 21 Savage disconnected. 
+09:51:35 AM Lua: [06/18/22 09:51:35] announce:check_and_announce()
+
+09:51:37 AM Lua: [06/18/22 09:51:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:51:44 AM Lua: [INFO] [1] SYSTEM: NewzThx is joining. 
+09:51:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:51:51 AM Lua: [INFO] [BLT] Setup... 
+09:51:51 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:51:51 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:51:51 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:51:51 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:51:51 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:51:51 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:51:51 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2b10f300 
+09:51:51 AM Lua: [INFO] [BLT] Loading mod: base 
+09:51:51 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:51:52 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:51:52 AM Lua: [INFO] [BLT] Setup... 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:51:52 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:51:52 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x37e8fc80 
+09:51:52 AM Lua: [INFO] [BLT] Loading mod: base 
+09:51:52 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:51:52 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:51:52 AM Lua: [INFO] [BLT] Setup... 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:51:52 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:51:52 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:51:52 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3c99da00 
+09:51:52 AM Lua: [INFO] [BLT] Loading mod: base 
+09:51:52 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:51:52 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:51:52 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:51:52 AM Lua: [INFO] Loading mod settings : nil 
+09:52:10 AM Lua: [INFO] [1] SYSTEM: Стэнд "Путис" is joining. 
+09:52:10 AM Lua: [INFO] [1] SYSTEM: УКРАИНА - ПРИВЕТ is joining. 
+09:53:32 AM Lua: [INFO] [1] NewzThx: idk where is this fckng thermal past xD  
+09:54:10 AM Lua: [INFO] [1] УКРАИНА - ПРИВЕТ: термит есть? 
+09:54:22 AM Lua: [INFO] [1] Стэнд "Путис": у зелёного есть 
+09:54:49 AM Lua: [INFO] [1] УКРАИНА - ПРИВЕТ: green help 
+09:55:26 AM Lua: [INFO] [1] NewzThx: ON ME 
+09:55:31 AM Lua: [INFO] [1] NewzThx: on me  
+09:55:33 AM Lua: [INFO] [1] NewzThx: thermal past 
+09:57:38 AM Lua: [INFO] [1] Стэнд "Путис": go 
+09:57:56 AM Lua: [INFO] [1] ap0: LOL 
+09:57:58 AM Lua: [INFO] [1] NewzThx: its me  
+09:58:07 AM Lua: [INFO] [1] NewzThx: its fckng me sorry guys  
+09:58:33 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:58:33 AM Lua: [INFO] [BLT] Setup... 
+09:58:33 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:58:33 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:58:33 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:58:33 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:58:33 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:58:33 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:58:33 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2ac82760 
+09:58:33 AM Lua: [INFO] [BLT] Loading mod: base 
+09:58:33 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:33 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:58:33 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:58:33 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:58:33 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:58:34 AM Lua: [INFO] [BLT] Setup... 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:58:34 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:58:34 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x38632c60 
+09:58:34 AM Lua: [INFO] [BLT] Loading mod: base 
+09:58:34 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:34 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:58:34 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:58:34 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+09:58:34 AM Lua: [INFO] [BLT] Setup... 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+09:58:34 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+09:58:34 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+09:58:34 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3c56a9a0 
+09:58:34 AM Lua: [INFO] [BLT] Loading mod: base 
+09:58:34 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:34 AM Lua: [INFO] [BLT] Setting up mod:  base 
+09:58:34 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+09:58:34 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+09:58:34 AM Lua: [INFO] Loading mod settings : nil 
+09:58:36 AM Lua: [06/18/22 09:58:36] announce:check_and_announce()
+
+09:58:36 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2blt
+09:58:36 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2bltdll
+09:58:37 AM Lua: [INFO] [Updates] Received update data for 'payday2blt' 
+09:58:37 AM Lua: [INFO] [Updates] Received update data for 'payday2bltdll' 
+09:58:37 AM Lua: [INFO] [Updates] Comparing hash data for payday2blt:
+Server: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6
+ Local: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6 
+09:58:37 AM Lua: [INFO] [Updates] Comparing hash data for payday2bltdll:
+Server: 6e30523b873aa04268e9e99e8d127a97dc3474d70d6bceb5a324e95c78b505ac
+ Local: 6e30523b873aa04268e9e99e8d127a97dc3474d70d6bceb5a324e95c78b505ac 
+09:58:38 AM Lua: [06/18/22 09:58:38] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:59:25 AM Lua: [INFO] [1] SYSTEM: УКРАИНА - ПРИВЕТ disconnected. 
+09:59:35 AM Lua: [ERROR] Mod image at path does not exist! mods/[MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition/ap0.png 
+09:59:36 AM Lua: [06/18/22 09:59:36] announce:check_and_announce()
+
+09:59:37 AM Lua: [06/18/22 09:59:37] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+09:59:45 AM Lua: [INFO] [BLT] Performing save... 
+09:59:45 AM Lua: [INFO] [BLT] Save complete? true 
+09:59:45 AM Lua: [ERROR] Mod image at path does not exist! mods/[MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition/ap0.png 
+09:59:46 AM Lua: [INFO] [BLT] Performing save... 
+09:59:46 AM Lua: [INFO] [BLT] Save complete? true 
+10:00:01 AM Lua: [INFO] [1] NewzThx: it is good ?  
+10:00:09 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:00:09 AM Lua: [INFO] [BLT] Setup... 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:00:09 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:00:09 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3936a480 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: base 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:00:09 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:00:09 AM Lua: [INFO] [BLT] Setup... 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:00:09 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:00:09 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3b20daa0 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: base 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:00:09 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:00:09 AM Lua: [INFO] [BLT] Setup... 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:00:09 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:00:09 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:00:09 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3cde4580 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: base 
+10:00:09 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:00:09 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:00:09 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:00:10 AM Lua: [INFO] Loading mod settings : nil 
+10:00:24 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:00:26 AM Lua: [INFO] [1] SYSTEM: NewzThx removed Loot Drop Off Point 
+10:00:27 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:00:34 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:01:39 AM Lua: [INFO] [1] NewzThx: kill  
+10:01:42 AM Lua: [INFO] [1] ap0: NO  
+10:02:05 AM Lua: [INFO] [1] ap0: why.. 
+10:02:22 AM Lua: [INFO] [1] NewzThx: why what ?  
+10:02:29 AM Lua: [INFO] [1] NewzThx: have u ever do this one ?  
+10:02:39 AM Lua: [INFO] [1] ap0: uhm i have infamy 21 xd 
+10:02:53 AM Lua: [INFO] [1] NewzThx: maybe we dont have the same plan haha  
+10:03:04 AM Lua: [INFO] [1] ap0: i can even do it with 1 guard killed or 0  
+10:03:04 AM Lua: [INFO] [1] NewzThx: but its completable without kill so.. 
+10:03:45 AM Lua: [INFO] [1] ap0: can you thermite down there 
+10:05:01 AM Lua: [INFO] [1] ap0: cameras down  
+10:05:13 AM Lua: [INFO] [1] NewzThx: ty 
+10:06:57 AM Lua: [INFO] [1] ap0: 0 pagers left 
+10:07:01 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:07:02 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:07:03 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:07:04 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:07:05 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:07:06 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:07:07 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:07:07 AM Lua: [INFO] [BLT] Setup... 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:07:07 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:07:07 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2aa27be0 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: base 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:07:07 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:07:07 AM Lua: [INFO] [BLT] Setup... 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:07:07 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:07:07 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2abf4ac0 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: base 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:07:07 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:07:07 AM Lua: [INFO] [BLT] Setup... 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:07:07 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:07:07 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:07:07 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x256dc8c0 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: base 
+10:07:07 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:07:07 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:07:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:07:08 AM Lua: [INFO] Loading mod settings : nil 
+10:07:18 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:07:18 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:07:31 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:07:32 AM Lua: [06/18/22 10:07:32] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:08:00 AM Lua: [INFO] [1] ap0: lemme open the vent 
+10:08:06 AM Lua: [INFO] [1] ap0: and get down cameras 
+10:08:21 AM Lua: [INFO] [1] NewzThx: if u want 
+10:08:47 AM Lua: [INFO] [1] NewzThx: oupsi xD  
+10:09:10 AM Lua: [INFO] [1] ap0: let him rotate 
+10:09:42 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:09:42 AM Lua: [INFO] [1] SYSTEM: Стэнд "Путис" left. 
+10:09:43 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:09:44 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:09:44 AM Lua: [INFO] [1] ap0: man you fced it xdddddddd 
+10:09:45 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:09:46 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:09:46 AM Lua: [INFO] [1] NewzThx: NP 
+10:09:47 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:09:48 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:09:48 AM Lua: [INFO] [BLT] Setup... 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:09:48 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:09:48 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x36726360 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: base 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:09:48 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:09:48 AM Lua: [INFO] [BLT] Setup... 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:09:48 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:09:48 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2b49b1a0 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: base 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:09:48 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:09:48 AM Lua: [INFO] [BLT] Setup... 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:09:48 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:09:48 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:09:48 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2b06abe0 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: base 
+10:09:48 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:09:48 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:09:48 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:09:49 AM Lua: [INFO] Loading mod settings : nil 
+10:09:59 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:09:59 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:09:59 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:10:05 AM Lua: [INFO] [1] ap0: can you put thermite near van ?  
+10:10:10 AM Lua: [INFO] [1] NewzThx: YES  
+10:10:14 AM Lua: [06/18/22 10:10:14] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:10:24 AM Lua: [INFO] [1] SYSTEM: NewzThx removed Thermite paste 
+10:10:24 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:10:58 AM Lua: [INFO] [1] NewzThx: i think we just need to complete objective 
+10:11:08 AM Lua: [INFO] [1] ap0: you want the samurai shit?  
+10:11:08 AM Lua: [INFO] [1] NewzThx: dont need to take 50 bags  
+10:11:14 AM Lua: [INFO] [1] ap0: okay  
+10:11:31 AM Lua: [INFO] [1] NewzThx: we can pick the samourai armor if u want yes  
+10:11:38 AM Lua: [INFO] [1] NewzThx: i will search for a keycard 
+10:11:52 AM Lua: [INFO] [1] ap0: okay  
+10:12:14 AM Lua: [INFO] [1] NewzThx: whats ur first language if isnt a secret ?  
+10:12:31 AM Lua: [INFO] [1] ap0: romanian, followed by english  
+10:12:37 AM Lua: [INFO] [1] NewzThx: ok np lets do it  
+10:13:28 AM Lua: [INFO] [1] ap0: cameras down  
+10:13:31 AM Lua: [INFO] [1] NewzThx: ty 
+10:14:08 AM Lua: [INFO] [1] ap0: 4 guards upstairs xdddddd 
+10:14:23 AM Lua: [INFO] [1] NewzThx: omg and only 3 bags on outside xD  
+10:15:26 AM Lua: [INFO] [1] ap0: we got 6 bags 
+10:15:39 AM Lua: [INFO] [1] NewzThx: 4 for me outside $ 
+10:15:44 AM Lua: [INFO] [1] ap0: then 7  
+10:15:48 AM Lua: [INFO] [1] NewzThx: idk on the storage zone  
+10:15:55 AM Lua: [INFO] [1] ap0: i got 1 from there 
+10:15:57 AM Lua: [INFO] [1] NewzThx: can i kill pls  
+10:16:01 AM Lua: [INFO] [1] ap0: ye 
+10:16:41 AM Lua: [INFO] [1] NewzThx: one is on van  
+10:16:48 AM Lua: [INFO] [1] NewzThx: i will go here after that  
+10:19:01 AM Lua: [INFO] [1] ap0: comign down  
+10:19:02 AM Lua: [INFO] [1] NewzThx: wtf it wasnnt a guard ?  
+10:19:08 AM Lua: [INFO] [1] NewzThx: the second one?  
+10:19:34 AM Lua: [INFO] [1] ap0: it those bs guys in brown 
+10:19:43 AM Lua: [INFO] [1] ap0: sent from the helicopter 
+10:19:51 AM Lua: [INFO] [1] NewzThx: hmm yes 
+10:20:26 AM Lua: [INFO] [1] NewzThx: ty 
+10:21:58 AM Lua: [INFO] [1] NewzThx: 3 bags in storage for the moment  
+10:22:04 AM Lua: [INFO] [1] NewzThx: 2 artifacts 
+10:22:13 AM Lua: [INFO] [1] ap0: you have crowbar 
+10:22:21 AM Lua: [INFO] [1] NewzThx: yep  
+10:22:28 AM Lua: [INFO] [1] ap0: go upstairs, there are boxes 
+10:22:28 AM Lua: [INFO] [1] SYSTEM: Andre is joining. 
+10:23:02 AM Lua: [INFO] [1] NewzThx: on me  
+10:23:05 AM Lua: [INFO] [1] NewzThx: crow bar 
+10:23:12 AM Lua: [INFO] [1] Andre: can i join 
+10:23:14 AM Lua: [INFO] [1] ap0: coming in a sec 
+10:23:16 AM Lua: [INFO] [1] Andre: ty 
+10:24:03 AM Lua: [INFO] [1] NewzThx: come 
+10:24:06 AM Lua: [INFO] [1] NewzThx: orange 
+10:24:26 AM Lua: [INFO] [1] ap0: ecm 
+10:24:34 AM Lua: [INFO] [1] NewzThx: come orange  
+10:24:37 AM Lua: [INFO] [1] NewzThx: just to see 
+10:24:46 AM Lua: [INFO] [1] NewzThx: it is end haha come  
+10:24:59 AM Lua: [INFO] [1] ap0: ggs 
+10:25:04 AM Lua: [INFO] [1] ap0: you gotta rest  
+10:25:09 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:25:10 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:25:11 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:25:11 AM Lua: [INFO] [1] NewzThx: np 
+10:25:12 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:25:13 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:25:14 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:25:14 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:25:14 AM Lua: [INFO] [BLT] Setup... 
+10:25:14 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:25:14 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:25:14 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:25:14 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:25:14 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:25:14 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:25:14 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2af8c880 
+10:25:14 AM Lua: [INFO] [BLT] Loading mod: base 
+10:25:14 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:14 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:25:14 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:25:14 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:25:15 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:25:15 AM Lua: [INFO] [BLT] Setup... 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:25:15 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:25:15 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x387e4780 
+10:25:15 AM Lua: [INFO] [BLT] Loading mod: base 
+10:25:15 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:15 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:25:15 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:25:15 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:25:15 AM Lua: [INFO] [BLT] Setup... 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:25:15 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:25:15 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:25:15 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3cde5880 
+10:25:15 AM Lua: [INFO] [BLT] Loading mod: base 
+10:25:15 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:15 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:25:15 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:25:15 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:25:16 AM Lua: [INFO] Loading mod settings : nil 
+10:25:26 AM Lua: [INFO] [1] NewzThx: it was cadaver?  
+10:25:32 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:25:32 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:25:32 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:25:36 AM Lua: [INFO] [1] ap0: i didnt leave any bag  
+10:25:39 AM Lua: [INFO] [1] Andre: i think so 
+10:25:42 AM Lua: [INFO] [1] ap0: only 1 in security room  
+10:25:49 AM Lua: [INFO] [1] NewzThx: its maybe me  
+10:25:50 AM Lua: [INFO] [1] ap0: but nobody goes there 
+10:25:51 AM Lua: [INFO] [1] Andre: i was with you guys 
+10:25:52 AM Lua: [INFO] [1] NewzThx: idk  
+10:25:59 AM Lua: [INFO] [1] NewzThx: yeah np  
+10:26:02 AM Lua: [06/18/22 10:26:02] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:26:15 AM Lua: [INFO] [1] SYSTEM: minu.asjad is joining. 
+10:29:02 AM Lua: [INFO] [1] SYSTEM: minu.asjad left. 
+10:29:05 AM Lua: [INFO] [1] ap0: come keycard 
+10:29:06 AM Lua: [INFO] [1] NewzThx: ?  
+10:29:15 AM Lua: [INFO] [1] NewzThx: i will come 
+10:29:19 AM Lua: [INFO] [1] ap0: he took it 
+10:29:22 AM Lua: [INFO] [1] NewzThx: ok np 
+10:29:52 AM Lua: [INFO] [1] SYSTEM: Andre left. 
+10:29:57 AM Lua: [INFO] [1] NewzThx: wtf these guys  
+10:30:00 AM Lua: [INFO] [1] ap0: huh? 
+10:30:01 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:30:02 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:30:03 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:30:04 AM Lua: [INFO] [1] ap0: xd 
+10:30:04 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:30:05 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:30:06 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:30:07 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:30:07 AM Lua: [INFO] [BLT] Setup... 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:30:07 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:30:07 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x39cb7a60 
+10:30:07 AM Lua: [INFO] [BLT] Loading mod: base 
+10:30:07 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:07 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:30:07 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:30:07 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:30:07 AM Lua: [INFO] [BLT] Setup... 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:30:07 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:30:07 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:30:07 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2bf9f3c0 
+10:30:07 AM Lua: [INFO] [BLT] Loading mod: base 
+10:30:07 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:07 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:30:07 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:30:07 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:30:08 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:30:08 AM Lua: [INFO] [BLT] Setup... 
+10:30:08 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:30:08 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:30:08 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:30:08 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:30:08 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:30:08 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:30:08 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2d450680 
+10:30:08 AM Lua: [INFO] [BLT] Loading mod: base 
+10:30:08 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:08 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:30:08 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:30:08 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:30:08 AM Lua: [INFO] Loading mod settings : nil 
+10:30:26 AM Lua: [INFO] [1] ap0: how did the bot get downed?  
+10:30:26 AM Lua: [INFO] [1] NewzThx: its why i have ask you if have ever done before ahaha  
+10:30:44 AM Lua: [INFO] [1] ap0: no, andre dided, not me  
+10:30:46 AM Lua: [INFO] [1] NewzThx: cause some infamous guys are just bad af 
+10:30:52 AM Lua: [INFO] [1] ap0: i was in security room  
+10:30:55 AM Lua: [INFO] [1] ap0: lol 
+10:30:59 AM Lua: [INFO] [1] NewzThx: yeah i have seen  
+10:31:03 AM Lua: [INFO] [1] NewzThx: haha dont worry  
+10:31:08 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:31:08 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:31:08 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:31:29 AM Lua: [INFO] [1] NewzThx: but andre was infam15 and he do that wtf  
+10:32:06 AM Lua: [INFO] [1] NewzThx: so if u have time, take ur time haha i will be long for outside  
+10:32:43 AM Lua: [INFO] [1] ap0: ima clear inside, i can get 4 bags with no crowbar, 8 with crowbar 
+10:33:07 AM Lua: [INFO] [1] NewzThx: hahah we will pick one  
+10:33:15 AM Lua: [INFO] [1] NewzThx: one outside and 2 inside  
+10:35:49 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:35:50 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:35:51 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:35:52 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:35:52 AM Lua: [INFO] [1] NewzThx: my bad.. 
+10:35:53 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:35:54 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:35:55 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:35:55 AM Lua: [INFO] [BLT] Setup... 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:35:55 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:35:55 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x385dd1a0 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: base 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:35:55 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:35:55 AM Lua: [INFO] [BLT] Setup... 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:35:55 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:35:55 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x350ca060 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: base 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:35:55 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:35:55 AM Lua: [INFO] [BLT] Setup... 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:35:55 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:35:55 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:35:55 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x256dc8c0 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: base 
+10:35:55 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:35:55 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:35:55 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:35:56 AM Lua: [INFO] Loading mod settings : nil 
+10:36:06 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:36:06 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:36:06 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:36:14 AM Lua: [06/18/22 10:36:14] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:36:15 AM Lua: [INFO] [1] NewzThx: so sorry  
+10:36:28 AM Lua: [INFO] [1] SYSTEM: CEO of Homophobia is joining. 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:33 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:34 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:37 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:39 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:39 AM Lua: [INFO] [1] ap0: dw 
+10:36:40 AM Lua: [INFO] [1] NewzThx: i will kick him for his pseudo omg  
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEOD/1 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BCO/ groucho_glasses nothing-nothing no_color_no_material plastic none wpn_fps_pis_x_usp 2_19_3_6_29_14_ wpn_fps_pis_judge 1_2_3_14_39_44_18_ happy x_usp_cola-4-0 judge_lones-4-0 tux default sneak|1.0 
+10:36:42 AM Lua: [INFO] [4] CEO of Homophobia: GNAP/BEO|1/{"glove_variation":"default"} 
+10:36:49 AM Lua: [INFO] [1] SYSTEM: CEO of Homophobia has been kicked. 
+10:38:15 AM Lua: [INFO] [1] NewzThx: omg 
+10:38:21 AM Lua: [INFO] [1] NewzThx: look 
+10:38:30 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:38:31 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:38:32 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:38:33 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:38:33 AM Lua: [INFO] [1] NewzThx: 5 guards 
+10:38:34 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:38:36 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:38:36 AM Lua: [INFO] [BLT] Setup... 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:38:36 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:38:36 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x35196ea0 
+10:38:36 AM Lua: [INFO] [BLT] Loading mod: base 
+10:38:36 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:36 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:38:36 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:38:36 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:38:36 AM Lua: [INFO] [BLT] Setup... 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:38:36 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:38:36 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:38:36 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x4ebe0660 
+10:38:36 AM Lua: [INFO] [BLT] Loading mod: base 
+10:38:36 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:36 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:38:36 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:38:36 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:38:37 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:38:37 AM Lua: [INFO] [BLT] Setup... 
+10:38:37 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:38:37 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:38:37 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:38:37 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:38:37 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:38:37 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:38:37 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3c56a9a0 
+10:38:37 AM Lua: [INFO] [BLT] Loading mod: base 
+10:38:37 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:37 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:38:37 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:38:37 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:38:37 AM Lua: [INFO] Loading mod settings : nil 
+10:38:45 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:38:45 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:38:45 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:38:53 AM Lua: [06/18/22 10:38:53] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:39:46 AM Lua: [INFO] [1] ap0: i forgot paste xdddddd 
+10:39:53 AM Lua: [INFO] [1] NewzThx: hahahah  
+10:40:06 AM Lua: [INFO] [1] NewzThx: we have relaunch so many times its for that xD  
+10:40:16 AM Lua: [INFO] [1] ap0: xd 
+10:40:21 AM Lua: [INFO] [1] NewzThx: NO 
+10:40:45 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:40:45 AM Lua: [INFO] [1] ap0: i missed xd 
+10:40:46 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:40:47 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:40:47 AM Lua: [INFO] [1] NewzThx: same  
+10:40:48 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:40:49 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:40:50 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:40:50 AM Lua: [INFO] [BLT] Setup... 
+10:40:50 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:40:50 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:40:50 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:40:50 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:40:50 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:40:50 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:40:50 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x1feeabe0 
+10:40:50 AM Lua: [INFO] [BLT] Loading mod: base 
+10:40:50 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:40:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:40:51 AM Lua: [INFO] [BLT] Setup... 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:40:51 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:40:51 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x4f283980 
+10:40:51 AM Lua: [INFO] [BLT] Loading mod: base 
+10:40:51 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:40:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:40:51 AM Lua: [INFO] [BLT] Setup... 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:40:51 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:40:51 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:40:51 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3ce2bb80 
+10:40:51 AM Lua: [INFO] [BLT] Loading mod: base 
+10:40:51 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:40:51 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:40:51 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:40:52 AM Lua: [INFO] Loading mod settings : nil 
+10:41:00 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Thermite paste 
+10:41:00 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Loot Drop Off Point 
+10:41:00 AM Lua: [INFO] [1] SYSTEM: NewzThx placed Bag Zip-line 
+10:41:05 AM Lua: [INFO] [1] NewzThx: same haha gg  
+10:41:09 AM Lua: [06/18/22 10:41:09] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:42:34 AM Lua: [INFO] [1] NewzThx: key card 
+10:42:51 AM Lua: [INFO] [1] ap0: i get one from security guard in the camera room  
+10:42:57 AM Lua: [INFO] [1] NewzThx: ok nice 
+10:43:08 AM Lua: [INFO] [1] NewzThx: or on special pnj  
+10:43:53 AM Lua: [INFO] [1] ap0: no cameras 
+10:43:55 AM Lua: [INFO] [1] NewzThx: ty 
+10:44:20 AM Lua: [INFO] [1] ap0: all guard upstairs 
+10:44:24 AM Lua: [INFO] [1] NewzThx: omg  
+10:44:38 AM Lua: [INFO] [1] ap0: and 1 civil  
+10:45:26 AM Lua: [INFO] [1] ap0: 2 bags in vent 
+10:45:35 AM Lua: [INFO] [1] NewzThx: ok np we can pick them at the end  
+10:46:03 AM Lua: [INFO] [1] NewzThx: yeahhh two key card gg  
+10:47:12 AM Lua: [INFO] [1] SYSTEM: Restarting in 5 seconds. 
+10:47:13 AM Lua: [INFO] [1] SYSTEM: Restarting in 4 seconds. 
+10:47:14 AM Lua: [INFO] [1] SYSTEM: Restarting in 3 seconds. 
+10:47:15 AM Lua: [INFO] [1] SYSTEM: Restarting in 2 seconds. 
+10:47:15 AM Lua: [INFO] [1] ap0: rip  
+10:47:16 AM Lua: [INFO] [1] SYSTEM: Restarting in 1 seconds. 
+10:47:17 AM Lua: [INFO] [1] SYSTEM: Restarting in 0 seconds. 
+10:47:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:47:18 AM Lua: [INFO] [BLT] Setup... 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:47:18 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:47:18 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x1fee9100 
+10:47:18 AM Lua: [INFO] [BLT] Loading mod: base 
+10:47:18 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:18 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:47:18 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:47:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:47:18 AM Lua: [INFO] [BLT] Setup... 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:47:18 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:47:18 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:47:18 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x29e96bc0 
+10:47:18 AM Lua: [INFO] [BLT] Loading mod: base 
+10:47:18 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:18 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:47:18 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:47:18 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:47:19 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+10:47:19 AM Lua: [INFO] [BLT] Setup... 
+10:47:19 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+10:47:19 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+10:47:19 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+10:47:19 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+10:47:19 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+10:47:19 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+10:47:19 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2e8cde80 
+10:47:19 AM Lua: [INFO] [BLT] Loading mod: base 
+10:47:19 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:19 AM Lua: [INFO] [BLT] Setting up mod:  base 
+10:47:19 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+10:47:19 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+10:47:19 AM Lua: [INFO] Loading mod settings : nil 
+10:47:33 AM Lua: [INFO] [1] NewzThx: i was scared  
+10:47:34 AM Lua: [INFO] [1] ap0: i was moving gim xd 
+10:47:38 AM Lua: [INFO] [1] NewzThx: hahah  
+10:47:41 AM Lua: [INFO] [1] ap0: haha np  
+10:47:41 AM Lua: [INFO] [1] SYSTEM: MrGamplin is joining. 
+10:47:48 AM Lua: [06/18/22 10:47:48] (shoot_through_walls.lua) Warning! Player is currently dead, delaying callback till player will be alive again.
+
+10:47:50 AM Lua: [INFO] [1] NewzThx: how do you answer fast last this ?  
+10:47:51 AM Lua: [INFO] [1] SYSTEM: MrGamplin placed Bag Zip-line 
+10:47:53 AM Lua: [INFO] [1] NewzThx: on pagers  
+10:48:08 AM Lua: [INFO] [1] ap0: fast? its just normal  
+10:48:09 AM Lua: [INFO] [1] NewzThx: omg  
+10:48:12 AM Lua: [INFO] [1] SYSTEM: MrGamplin placed Loot Drop Off Point 
+10:48:17 AM Lua: [INFO] [1] SYSTEM: MrGamplin placed Thermite paste 
+10:48:20 AM Lua: [INFO] [1] ap0: man dont xd 
+10:48:27 AM Lua: [INFO] [1] NewzThx: answer fast like this 
+10:48:32 AM Lua: [INFO] [1] NewzThx: oh ok just me  
+10:49:16 AM Lua: [INFO] [1] MrGamplin: oh 
+10:49:33 AM Lua: [INFO] [1] MrGamplin: i brought wrong items :( 
+10:49:37 AM Lua: [INFO] [1] NewzThx: 7 gurads are outside now omg  
+10:49:42 AM Lua: [INFO] [1] NewzThx: want reset ?  
+10:49:49 AM Lua: [INFO] [1] MrGamplin: nah im good 
+10:49:52 AM Lua: [INFO] [1] NewzThx: ok 
+10:49:56 AM Lua: [INFO] [1] ap0: can you open here  
+10:50:00 AM Lua: [INFO] [1] ap0: gamp 
+10:50:10 AM Lua: [INFO] [1] MrGamplin: ? 
+10:50:18 AM Lua: [INFO] [1] ap0: thermite in vent 
+10:50:19 AM Lua: [INFO] [1] NewzThx: open breach pls  
+10:50:24 AM Lua: [INFO] [1] ap0: you picked it up  
+10:50:49 AM Lua: [INFO] [1] ap0: thanks  
+10:50:53 AM Lua: [INFO] [1] MrGamplin: i'm used to open it from the other side 
+10:51:02 AM Lua: [INFO] [1] ap0: ik  
+10:52:53 AM Lua: [INFO] [1] MrGamplin: cameras down 
+10:52:55 AM Lua: [INFO] [1] NewzThx: rty 
+10:52:56 AM Lua: [INFO] [1] ap0: thanks 
+10:53:06 AM Lua: [INFO] [1] NewzThx: and one keycard nice 
+10:53:26 AM Lua: [INFO] [1] NewzThx: only 3 outside  
+10:54:07 AM Lua: [INFO] [1] SYSTEM: Star Blyatinum is joining. 
+10:54:30 AM Lua: [INFO] [1] NewzThx: gimme bags if u can  
+10:54:32 AM Lua: [INFO] [1] NewzThx: on top  
+10:54:35 AM Lua: [INFO] [1] MrGamplin: hold on 
+10:54:44 AM Lua: [INFO] [1] SYSTEM: Star Blyatinum left. 
+10:54:44 AM Lua: [INFO] [1] MrGamplin: im blocking the helicopter 
+10:54:49 AM Lua: [INFO] [1] NewzThx: ok np  
+10:55:02 AM Lua: [INFO] [1] NewzThx: i have accept and he has leave  
+10:55:32 AM Lua: [INFO] [1] NewzThx: ty haha  
+10:56:07 AM Lua: [INFO] [1] ap0: oh right right right 
+10:56:13 AM Lua: [INFO] [1] NewzThx: my bad  
+10:56:16 AM Lua: [INFO] [1] ap0: man these pagers comms xd 
+10:56:20 AM Lua: [INFO] [1] ap0: are so stupid 
+10:56:31 AM Lua: [INFO] [1] NewzThx: why haha  
+10:56:40 AM Lua: [INFO] [1] ap0: i looted inside 
+10:56:48 AM Lua: [INFO] [1] ap0: the building 
+10:57:04 AM Lua: [INFO] [1] ap0: we have the outiside and the garage remaining 
+10:57:19 AM Lua: [INFO] [1] NewzThx: just the garage i think  
+10:57:32 AM Lua: [INFO] [1] NewzThx: only 3 bags outside and they are secures 
+10:57:41 AM Lua: [INFO] [1] ap0: i have no crow 
+10:57:46 AM Lua: [INFO] [1] NewzThx: too 
+10:58:40 AM Lua: [INFO] [1] ap0: guard coming up  
+10:59:27 AM Lua: [INFO] [1] NewzThx: had one 
+10:59:36 AM Lua: [INFO] [1] ap0: come in garage 
+10:59:47 AM Lua: [INFO] [1] NewzThx: yes 
+10:59:49 AM Lua: [INFO] [1] MrGamplin: im getting the artifact 
+10:59:52 AM Lua: [INFO] [1] NewzThx: need second card too  
+10:59:55 AM Lua: [INFO] [1] NewzThx: nice  
+10:59:56 AM Lua: [INFO] [1] NewzThx: ty 
+11:00:34 AM Lua: [INFO] [1] SYSTEM: NewzThx disconnected. 
+11:00:34 AM Lua: [INFO] [1] SYSTEM: MrGamplin disconnected. 
+11:00:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+11:00:42 AM Lua: [INFO] [BLT] Setup... 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+11:00:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+11:00:42 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x3c1613a0 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: base 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  base 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+11:00:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+11:00:42 AM Lua: [INFO] [BLT] Setup... 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+11:00:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+11:00:42 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2b15b4e0 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: base 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  base 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+11:00:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+11:00:42 AM Lua: [INFO] [BLT] Setup... 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+11:00:42 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+11:00:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+11:00:42 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x394a6ba0 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: base 
+11:00:42 AM Lua: [INFO] [BLT] Loading mod: [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  base 
+11:00:42 AM Lua: [INFO] [BLT] Setting up mod:  [MOD] Pirate Perfection Reborn Trainer! V.I.P. Edition 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind !Test_Script] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Aimbot] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Ammo_And_Health_Refill] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Back] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind CarryStacker_-_Push_Stack_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Down] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly_Up] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Fly] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind God_Mode] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Converter] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Instant_Win] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Lego_Remove] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind LEGO_Spawn] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Media_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Change_Equipment] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Levels] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Money] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Music] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Menu_Skills] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Mod_Bender] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Poco_Menu] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Replenish] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Share_xray_Vision] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Slowmotion_Mod] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Ammo_Bag] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_ECM] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Medikit] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_SentryGun_loud] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Spawn_Tripmine] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Crosshair] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Teleport_To_Bullet] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Flash_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Holy_Handgrenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind Throw_Smoke_Grenade] 
+11:00:42 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind xray_Vision] 
+11:00:43 AM Lua: [INFO] Loading mod settings : nil 
+11:00:44 AM Lua: [06/18/22 11:00:44] announce:check_and_announce()
+
+11:00:44 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2blt
+11:00:44 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2bltdll
+11:00:54 AM Lua: [06/18/22 11:00:54] {parallel_tasks.lua} (Setup.block_exec) Still have parallel tasks and/or threads doing their job.
+
+11:00:54 AM Lua: Inspecting table: 0x3b970ca0:
+  [announce_retry_dl] = true
+
+11:00:56 AM Lua: [ERROR] Could not connect to the download server! 
+11:00:56 AM Lua: [ERROR] Could not connect to the download server! 
+11:00:58 AM Lua: [06/18/22 11:00:58] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+11:00:58 AM Lua: [06/18/22 11:00:58] announce:announce() data
+==================
+ {id='6n',title='Ahoy matey !',message='\nWelcome to Pirate Perfection Reborn\nThe best Payday 2 Trainer Ever.\n\nIf you have any Questions feel free to Visit the forum.\nThe F.A.Q. is The Best place to start.\n\nThe DLC Unlocker was disabled by default to prevent you from being kicked.\nYou can find out how to enable it by clicking the link below.\n\nBest regards\nThe Pirate Perfection Developer Crew',link={text='Click here for the DLC Unlocker',l='https://www.pirateperfection.com/topic/85102-how-to-toggle-the-dlc-unlocker/?tab=comments#comment-121970'},} 
+==================
+
+11:01:13 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:57) CURL CLOSED
