@@ -1,0 +1,69 @@
+<mod name="MenuBackgrounds" author="Luffy" global_key="MenuBackgrounds" core_class="Core.lua" min_lib_ver="4.5">
+    <AssetUpdates id="17160" provider="modworkshop" version="6.1.2" dont_delete="true"/>
+    
+    <Hooks directory="Hooks">
+        <hook file="MenuManager.lua" source_file="lib/managers/menumanager"/>
+        <hook file="CrimeNetManager.lua" source_file="lib/managers/crimenetmanager"/>
+        <hook file="BlackScreen.lua" source_file="lib/managers/hud/hudblackscreen"/>
+        <hook file="MenuBackDropGUI.lua" source_file="lib/managers/menu/menubackdropgui"/>
+        <hook file="StageEndScreen.lua" source_file="lib/managers/hud/hudstageendscreen"/>
+        <hook file="MissionBriefing.lua" source_file="lib/managers/hud/hudmissionbriefing"/>
+        <hook file="LootScreen.lua" source_file="lib/managers/hud/hudlootscreen"/>
+        <hook file="MenuSceneManager.lua" source_file="lib/managers/menu/menuscenemanager"/>
+        <hook file="CoreGUIDataManager.lua" source_file="core/lib/managers/coreguidatamanager"/>
+        <hook file="YeetBlackBackgrounds.lua" source_file="lib/managers/menu/blackmarketgui"/>
+        <hook file="YeetBlackBackgrounds.lua" source_file="lib/managers/infamymanager"/>
+        <hook file="YeetBlackBackgrounds.lua" source_file="lib/managers/menu/menuguicomponent"/>
+        <hook file="YeetBlackBackgrounds.lua" source_file="lib/managers/menu/skilltreeguinew"/>
+        <hook file="YeetBlackBackgrounds.lua" source_file="lib/managers/menu/skilltreegui"/>
+        <hook file="Setup.lua" source_file="lib/setups/setup"/>
+        <hook file="FadeoutGUIObject.lua" source_file="lib/managers/menu/fadeoutguiobject"/>
+    </Hooks>
+
+    <Localization directory="Lang" default="english.yaml">
+        <loc file="english.yaml" language="english"/>
+    </Localization>
+    
+    <Options save_file="MenuBgs.txt" prefix_id="MenuBgs_">
+        <options>
+            <option name="BGsSet" type="multichoice" use_value="true" values_tbl="self.Menus" default_value="The Diamond" value_changed="self:Update"/>
+            <option name="UseStandard" type="boolean" default_value="false" value_changed="self:Update"/>
+            <option name="FadeToBlack" type="boolean" default_value="false"/>
+            <option name="ColorGrading" type="boolean" default_value="false" value_changed="self:Update"/>
+            <option name="Volume" type="number" default_value="0.1" min="0" max="1" value_changed="self:UpdateWait" show_value="true"/>
+            <option name="Speed" type="number" default_value="1" step="1" decimal_count="0" min="1" max="10" show_value="true" value_changed="self:ReloadWait"/>
+            <button name="Reload" clicked="self:Reload"/>
+            <button name="Reset" reset_button="true"/>
+
+            <option_group name="Menus">
+                <button name="Reset" reset_button="true"/>
+                <option name="standard" type="boolean" default_value="true"/>
+                <option name="inventory" type="boolean" default_value="true"/>
+                <option name="blackmarket" type="boolean" default_value="true"/>
+                <option name="blackmarket_crafting" type="boolean" default_value="true"/>
+                <option name="blackmarket_mask" type="boolean" default_value="true"/>
+                <option name="blackmarket_item" type="boolean" default_value="true"/>
+                <option name="blackmarket_customize" type="boolean" default_value="true"/>
+                <option name="blackmarket_screenshot" type="boolean" default_value="true"/>
+                <option name="blackmarket_armor" type="boolean" default_value="true"/>
+                <option name="blackmarket_weapon_color" type="boolean" default_value="true"/>
+                <option name="blackmarket_customize_armour" type="boolean" default_value="true"/>
+                <option name="crime_spree_lobby" type="boolean" default_value="true"/>
+                <option name="lobby" type="boolean" default_value="true"/>
+                <option name="safe" type="boolean" default_value="true"/>
+                <option name="crimenet" type="boolean" default_value="true"/>
+                <option name="briefing" type="boolean" default_value="true"/>
+                <option name="endscreen" type="boolean" default_value="true"/>
+                <option name="loot" type="boolean" default_value="true"/>
+                <option name="infamy_preview" type="boolean" default_value="true"/>
+                <option name="character_customization" type="boolean" default_value="true"/>
+                <option name="play_online" type="boolean" default_value="true"/>
+                <option name="options" type="boolean" default_value="true"/>
+                <option name="crew_management" type="boolean" default_value="true"/>
+                <option name="movie_theater" type="boolean" default_value="true"/>
+                <option name="blackscreen" type="boolean" default_value="true"/>
+                <option name="loading" type="boolean" default_value="true"/>
+            </option_group>
+        </options>
+    </Options>
+</mod>

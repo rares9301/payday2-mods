@@ -1,0 +1,19 @@
+MenuBgs: Menu Backgrounds
+MenuBgsDesc: Change the way the mod behaves
+MenuBgs_BGsSetTitleID: Background Set
+MenuBgs_SetDescID: Choose the backgrond set the mod will use (Default:: Standard)
+MenuBgs_UseStandardTitleID: Use standard texture for all menus
+MenuBgs_UseStandardDescID: If enabled, the standard texture will be used regardless of which menu you are in (Default:: Disabled)
+MenuBgs_FadeToBlackTitleID: Fade-to-black transition
+MenuBgs_FadeToBlackDescID: Normally the game does a transition which fades the game to black, this might be annoying so it's disabled by default.
+MenuBgs_RefreshTitleID: Refresh
+MenuBgs_MenusOptionsButtonTitleID: Menus
+MenuBgs_MenusOptionsButtonDescID: Menus
+MenuBgs_MenuDesc: If enabled this will set the background of the menu '%s' to the selected background set
+MenuBgs_ReloadTitleID: Reload
+MenuBgs_OptionsButtonTitleID: Menu Backgrounds
+MenuBgs_ColorGradingTitleID: Turn color grading on
+MenuBgs_ColorGradingDescID: Color grading is turned off as it messes with the color of the backgronds. If you wish to return them turn this option on.
+MenuBgs_VolumeTitleID: Animated Background Volume
+MenuBgs_SpeedTitleID: Animated Background Speed
+MenuBgs_ResetTitleID: Reset Settings

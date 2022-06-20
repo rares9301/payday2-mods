@@ -1,0 +1,5 @@
+{
+Name:"Azur Lane Pager Operator",
+Author:"GrandHorse",
+Description:"Replace Pager Operator voicelines Azur Lane DD's voicelines, most of them are special touch quotes."
+}

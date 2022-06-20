@@ -1,0 +1,1 @@
+{	"ShowErrorsDialog":true,	"MenuColor":"Color(1, 0, 0.47843140363693, 0.95294123888016)",	"ShowImages":true,	"IgnoredUpdates":{},	"CustomMapsOnlyFilter":false,	"OptimizedMusicLoad":true,	"LogSounds":false,	"ImportantNotice":true,	"DisabledMods":{},	"LogInit":false,	"ModSettings":{},	"DevMode":false}

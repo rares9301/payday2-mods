@@ -1,0 +1,22 @@
+{
+	"menu_id" : "ach_menu_misc",
+	"parent_menu_id" : "ach_menu_main",
+	"title" : "menu_ach_menu_misc_title",
+	"back_callback" : "callback_ach_misc_close",
+	"focus_changed_callback" : "callback_ach_misc_focus",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "ach_menu_misc_can_check_melee_headshots",
+			"title" : "menu_ach_menu_misc_can_check_melee_headshots_title",
+			"description" : "menu_ach_menu_misc_can_check_melee_headshots_desc",
+			"callback" : "callback_ach_menu_misc_can_check_melee_headshots",
+			"value" : "can_check_melee_headshots"
+		},
+		{
+			"type" : "divider",
+			"id" : "ach_menu_misc_div_2",
+			"size" : 32
+		}
+	]
+}
